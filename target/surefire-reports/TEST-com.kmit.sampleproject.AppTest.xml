@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.kmit.sampleproject.AppTest" time="0.012" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="17"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Users\sai sreeja\eclipse-workspace\sampleproject\target\test-classes;C:\Users\sai sreeja\eclipse-workspace\sampleproject\target\classes;C:\Users\sai sreeja\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\sai sreeja\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="java.vm.vendor" value="Eclipse Adoptium"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://adoptium.net/"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="java.vm.specification.version" value="17"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="IN"/>
+    <property name="sun.boot.library.path" value="C:\Users\sai sreeja\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.5.v20221102-0933\jre\bin"/>
+    <property name="sun.java.command" value="C:\Users\sai sreeja\AppData\Local\Temp\surefire3354979545133182403\surefirebooter6883483606085427066.jar C:\Users\sai sreeja\AppData\Local\Temp\surefire3354979545133182403 2022-11-18T10-29-13_791-jvmRun1 surefire15974505993284266989tmp surefire_05726183196399427133tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\Users\sai sreeja\eclipse-workspace\sampleproject\target\test-classes;C:\Users\sai sreeja\eclipse-workspace\sampleproject\target\classes;C:\Users\sai sreeja\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\sai sreeja\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\sai sreeja"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2022-10-18"/>
+    <property name="java.home" value="C:\Users\sai sreeja\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.5.v20221102-0933\jre"/>
+    <property name="file.separator" value="\"/>
+    <property name="style.color" value="always"/>
+    <property name="basedir" value="C:\Users\sai sreeja\eclipse-workspace\sampleproject"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\sai sreeja\AppData\Local\Temp\surefire3354979545133182403\surefirebooter6883483606085427066.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="17.0.5+8"/>
+    <property name="user.name" value="sai sreeja"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="Temurin-17.0.5+8"/>
+    <property name="localRepository" value="C:\Users\sai sreeja\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://github.com/adoptium/adoptium-support/issues"/>
+    <property name="java.io.tmpdir" value="C:\Users\sai sreeja\AppData\Local\Temp\"/>
+    <property name="java.version" value="17.0.5"/>
+    <property name="user.dir" value="C:\Users\sai sreeja\eclipse-workspace\sampleproject"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Users\sai sreeja\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.5.v20221102-0933\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Users/sai sreeja/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.5.v20221102-0933/jre/bin/server;C:/Users/sai sreeja/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.5.v20221102-0933/jre/bin;C:/Users/sai sreeja/AppData/Local/Temp/eoi4BD8.tmp//plugins/org.eclipse.justj.openjdk.hotspot.jre.minimal.stripped.win32.x86_64_17.0.4.v20220903-1038/jre/bin/server;C:/Users/sai sreeja/AppData/Local/Temp/eoi4BD8.tmp//plugins/org.eclipse.justj.openjdk.hotspot.jre.minimal.stripped.win32.x86_64_17.0.4.v20220903-1038/jre/bin;C:\Python311\Scripts\;C:\Python311\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Java\jdk1.8.0_311\bin;C:\Program Files\Git\cmd;C:\Program Files\mongosh-1.6.0-win32-x64\bin;C:\Program Files\MongoDB\Server\6.0\bin;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Users\sai sreeja\AppData\Local\Microsoft\WindowsApps;C:\Users\sai sreeja\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\sai sreeja\.dotnet\tools;C:\Users\sai sreeja\AppData\Local\Programs\Python\;C:\Users\sai sreeja\AppData\Local\Programs\Python\Python310\Scripts;C:\Program Files\JetBrains\IntelliJ IDEA 2021.3.2\bin;;C:\Program Files\JetBrains\DataGrip 2022.1.2\bin;;C:\;C:\Users\sai sreeja\AppData\Roaming\npm;C:\ProgramData\sai sreeja\GitHubDesktop\bin;C:\Users\sai sreeja\AppData\Local\GitHubDesktop\bin;C:\Users\sai sreeja\Downloads;;C:\Users\sai sreeja\Downloads;;."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Eclipse Adoptium"/>
+    <property name="java.vm.version" value="17.0.5+8"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="61.0"/>
+  </properties>
+  <testcase name="shouldAnswerWithTrue" classname="com.kmit.sampleproject.AppTest" time="0.004"/>
+</testsuite>
